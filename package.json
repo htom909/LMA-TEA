@@ -7,5 +7,7 @@
     "build": "tsc",
     "start": "node dist/index.js"
   },
-  "dependencies": {}
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
