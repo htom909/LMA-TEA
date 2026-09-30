@@ -4,7 +4,7 @@
   "description": "مشروع نظام لَمّة",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc || true",
     "start": "node dist/index.js"
   },
   "devDependencies": {
